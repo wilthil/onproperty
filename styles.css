@@ -1,3 +1,6 @@
 button.small{
-font-size:3rem !important;
+    border-radius: 100rem;
+    font-family: 'Inter';
+    font-weight:400;
+    border: 0px;
 }
